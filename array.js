@@ -6,3 +6,16 @@ friendsAge[1] = 21;
 console.log(friendsAge[1])
 var position = friendsAge.indexOf(19);
 console.log(position)
+friendsAge.push(30, 31);
+console.log(friendsAge.length);
+console.log(friendsAge);
+
+friendsAge.pop();
+console.log(friendsAge);
+friendsAge.shift();
+console.log(friendsAge);
+friendsAge.shift();
+console.log(friendsAge);
+friendsAge.splice();
+console.log(friendsAge);
+
