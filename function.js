@@ -32,5 +32,5 @@ function add(num1, num2){
     var result = num1 + num2;
     return result;
 }
-total = add(15,17);
+total = add(15, 17);
 console.log(total);
